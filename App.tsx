@@ -32,7 +32,7 @@ const App = () => {
                 ? 'ios-information-circle'
                 : 'ios-information-circle-outline';
             } else if (route.name === 'Practice') {
-              iconName = focused ? 'ios-list-box' : 'ios-list';
+              iconName = focused ? 'ios-list-circle' : 'ios-list';
             }
 
             // You can return any component that you like here!
