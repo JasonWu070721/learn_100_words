@@ -1,0 +1,7337 @@
+[
+    {
+        "en": "active",
+        "zh_tw": "活躍的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "alike",
+        "zh_tw": "相似的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "alive",
+        "zh_tw": "活著的;活躍的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "ancient",
+        "zh_tw": "古代的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "asleep",
+        "zh_tw": "睡著的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "backward",
+        "zh_tw": "向後的;落後的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "believable",
+        "zh_tw": "可信的",
+        "part_of_speech": "adj.10"
+    },
+    {
+        "en": "bitter",
+        "zh_tw": "苦的;嚴酷的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "blank",
+        "zh_tw": "空白的;空的,無內容的;茫然的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "blind",
+        "zh_tw": "瞎的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "bloody",
+        "zh_tw": "流血的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "bony",
+        "zh_tw": "骨的;似骨的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "brief",
+        "zh_tw": "短暫的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "broad",
+        "zh_tw": "寬廣的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "calm",
+        "zh_tw": "寧靜的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "central",
+        "zh_tw": "中央的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "cheap",
+        "zh_tw": "便宜的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "chemical",
+        "zh_tw": "化學的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "childish",
+        "zh_tw": "幼稚的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "childlike",
+        "zh_tw": "天真爛漫的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "choice",
+        "zh_tw": "上等的,精選的;挑三揀四的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "classic",
+        "zh_tw": "典型的;古典的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "clever",
+        "zh_tw": "聰明伶俐的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "cloudy",
+        "zh_tw": "多雲的;陰天的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "colorful",
+        "zh_tw": "富有色彩的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "comfortable",
+        "zh_tw": "舒適的",
+        "part_of_speech": "adj.11"
+    },
+    {
+        "en": "complete",
+        "zh_tw": "完整的；徹底的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "convenient",
+        "zh_tw": "方便的",
+        "part_of_speech": "adj.10"
+    },
+    {
+        "en": "costly",
+        "zh_tw": "昂貴的;代價高的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "crazy",
+        "zh_tw": "古怪的;著迷的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "cream",
+        "zh_tw": "奶油色的,淡黃色的,乳黃色的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "cruel",
+        "zh_tw": "殘酷的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "curious",
+        "zh_tw": "好奇的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "daily",
+        "zh_tw": "每日的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "dangerous",
+        "zh_tw": "危險的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "deaf",
+        "zh_tw": "聾的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "delicious",
+        "zh_tw": "好吃的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "dishonest",
+        "zh_tw": "不誠實的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "distant",
+        "zh_tw": "遠離的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "dizzy",
+        "zh_tw": "暈眩的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "double",
+        "zh_tw": "雙重的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "downtown",
+        "zh_tw": "城市商業區的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "dull",
+        "zh_tw": "晦暗的;無光澤的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "dumb",
+        "zh_tw": "愚笨的;啞的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "eastern",
+        "zh_tw": "東方的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "effective",
+        "zh_tw": "有效的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "elder",
+        "zh_tw": "年紀較長的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "elect",
+        "zh_tw": "選定的,當選的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "entire",
+        "zh_tw": "全部的,整個的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "exact",
+        "zh_tw": "確切的,精確的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "excellent",
+        "zh_tw": "非常好的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "expensive",
+        "zh_tw": "貴的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "expert",
+        "zh_tw": "熟練的,老練的;專家的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "express",
+        "zh_tw": "快遞的,快運的;明確的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "extra",
+        "zh_tw": "額外的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "fair",
+        "zh_tw": "公平的;美好的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "famous",
+        "zh_tw": "著名的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "favorite",
+        "zh_tw": "最喜愛的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "fearful",
+        "zh_tw": "可怕的;害怕的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "female",
+        "zh_tw": "女性的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "firm",
+        "zh_tw": "牢固的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "fit",
+        "zh_tw": "適合的;恰當的;相稱的;能勝任的",
+        "part_of_speech": "adj.3"
+    },
+    {
+        "en": "flat",
+        "zh_tw": "平的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "foggy",
+        "zh_tw": "有霧的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "following",
+        "zh_tw": "接著的,其次的;下面的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "foolish",
+        "zh_tw": "愚蠢的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "formal",
+        "zh_tw": "正式的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "former",
+        "zh_tw": "前者",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "forward",
+        "zh_tw": "前面的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "frank",
+        "zh_tw": "坦白的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "friendly",
+        "zh_tw": "友善的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "further",
+        "zh_tw": "較遠的;另外的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "future",
+        "zh_tw": "未來的,將來的;將來(時",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "generous",
+        "zh_tw": "慷慨的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "gentle",
+        "zh_tw": "溫柔的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "giant",
+        "zh_tw": "巨大的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "golden",
+        "zh_tw": "金色的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "grassy",
+        "zh_tw": "長滿草的;似草的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "greedy",
+        "zh_tw": "貪心的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "handsome",
+        "zh_tw": "英俊的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "hateful",
+        "zh_tw": "可恨的;充滿憎恨的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "healthy",
+        "zh_tw": "健康的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "helpful",
+        "zh_tw": "有益的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "homesick",
+        "zh_tw": "想家的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "honest",
+        "zh_tw": "誠實的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "humble",
+        "zh_tw": "謙恭的;微賤的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "humid",
+        "zh_tw": "潮濕的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "ill",
+        "zh_tw": "生病的",
+        "part_of_speech": "adj.3"
+    },
+    {
+        "en": "independent",
+        "zh_tw": "獨立的",
+        "part_of_speech": "adj.11"
+    },
+    {
+        "en": "instant",
+        "zh_tw": "即時的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "international",
+        "zh_tw": "國際的",
+        "part_of_speech": "adj.13"
+    },
+    {
+        "en": "joint",
+        "zh_tw": "接頭;連接",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "juicy",
+        "zh_tw": "多汁的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "latest",
+        "zh_tw": "最新的;最近的;最遲的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "legal",
+        "zh_tw": "合法的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "local",
+        "zh_tw": "本地的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "lone",
+        "zh_tw": "孤單的;無伴的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "lonely",
+        "zh_tw": "寂寞的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "lovely",
+        "zh_tw": "動人的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "magic",
+        "zh_tw": "不可思議的;有魔力的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "main",
+        "zh_tw": "最主要的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "male",
+        "zh_tw": "男性的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "measurable",
+        "zh_tw": "可測量的;可預見的",
+        "part_of_speech": "adj.10"
+    },
+    {
+        "en": "military",
+        "zh_tw": "軍事的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "minus",
+        "zh_tw": "負的,減去的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "modern",
+        "zh_tw": "現代的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "movable",
+        "zh_tw": "可動的,可移動的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "naked",
+        "zh_tw": "裸體的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "narrow",
+        "zh_tw": "窄的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "national",
+        "zh_tw": "國家的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "natural",
+        "zh_tw": "天然的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "naughty",
+        "zh_tw": "頑皮的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "nearby",
+        "zh_tw": "附近的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "neat",
+        "zh_tw": "整潔的;整齊的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "necessary",
+        "zh_tw": "需要的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "negative",
+        "zh_tw": "否定的;負面的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "neither",
+        "zh_tw": "兩者都不",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "northern",
+        "zh_tw": "北方的;向北方的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "novel",
+        "zh_tw": "新的,新穎的,新奇的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "official",
+        "zh_tw": "官方的,法定的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "ordinary",
+        "zh_tw": "平常的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "overseas",
+        "zh_tw": "國外的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "painful",
+        "zh_tw": "痛的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "particular",
+        "zh_tw": "特殊的;",
+        "part_of_speech": "adj.10"
+    },
+    {
+        "en": "patient",
+        "zh_tw": "有耐心的,能忍受的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "peaceful",
+        "zh_tw": "寧靜的;和平的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "perfect",
+        "zh_tw": "完美的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "personal",
+        "zh_tw": "個人的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "pink",
+        "zh_tw": "粉紅色的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "plain",
+        "zh_tw": "簡樸的;清楚的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "playful",
+        "zh_tw": "愛玩耍的;開玩笑的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "pleasant",
+        "zh_tw": "愉快的;美好的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "plus",
+        "zh_tw": "正的;外加的;有益的;陽性的;正電的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "polite",
+        "zh_tw": "有禮貌的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "popular",
+        "zh_tw": "流行的;受歡迎的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "positive",
+        "zh_tw": "正面的;確信的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "powerful",
+        "zh_tw": "強有力的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "present",
+        "zh_tw": "出席的;當前的;現在式的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "principal",
+        "zh_tw": "主要的,首要的;資本的,本金的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "private",
+        "zh_tw": "私人的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "proud",
+        "zh_tw": "感光榮的;驕傲的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "rainy",
+        "zh_tw": "下雨的;多雨的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "rapid",
+        "zh_tw": "迅速的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "rare",
+        "zh_tw": "罕見的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "recent",
+        "zh_tw": "最近的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "regular",
+        "zh_tw": "通常的;定期的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "responsible",
+        "zh_tw": "負責任的",
+        "part_of_speech": "adj.11"
+    },
+    {
+        "en": "rocky",
+        "zh_tw": "岩石的;多岩石的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "royal",
+        "zh_tw": "皇家的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "rude",
+        "zh_tw": "無禮的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "salty",
+        "zh_tw": "有鹽分的;鹹味濃的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "secret",
+        "zh_tw": "神祕的,奧祕的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "select",
+        "zh_tw": "精選的;卓越的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "separate",
+        "zh_tw": "單獨的,個別的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "serious",
+        "zh_tw": "嚴肅的;嚴重的;認真的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "shocked",
+        "zh_tw": "震驚的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "silent",
+        "zh_tw": "寂靜的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "similar",
+        "zh_tw": "相似的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "single",
+        "zh_tw": "單一的;獨身的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "skilled",
+        "zh_tw": "熟練的;有技能的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "skillful",
+        "zh_tw": "有技術的, 熟練的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "skinny",
+        "zh_tw": "很瘦的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "sleepy",
+        "zh_tw": "想睡的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "slender",
+        "zh_tw": "纖細的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "slim",
+        "zh_tw": "細長的;微小的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "snowy",
+        "zh_tw": "似雪的;多雪的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "social",
+        "zh_tw": "社會的;交際的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "southern",
+        "zh_tw": "南方的;向南方的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "square",
+        "zh_tw": "正方形的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "standard",
+        "zh_tw": "一般性的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "straight",
+        "zh_tw": "直的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "strict",
+        "zh_tw": "嚴謹的,精確的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "successful",
+        "zh_tw": "成功的",
+        "part_of_speech": "adj.10"
+    },
+    {
+        "en": "sudden",
+        "zh_tw": "突然的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "sunny",
+        "zh_tw": "晴朗的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "talkative",
+        "zh_tw": "好說話的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "tasty",
+        "zh_tw": "高雅的;大方的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "teenage",
+        "zh_tw": "十幾歲的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "terrible",
+        "zh_tw": "可怕的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "terrific",
+        "zh_tw": "非常好的;可怕的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "thick",
+        "zh_tw": "粗的;厚的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "thin",
+        "zh_tw": "瘦的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "thirsty",
+        "zh_tw": "口渴的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "traditional",
+        "zh_tw": "傳統的",
+        "part_of_speech": "adj.11"
+    },
+    {
+        "en": "ugly",
+        "zh_tw": "醜的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "uniform",
+        "zh_tw": "相同的,一致的;不變的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "upper",
+        "zh_tw": "較高的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "used",
+        "zh_tw": "習慣於; 舊的;用舊了的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "usual",
+        "zh_tw": "例常的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "video",
+        "zh_tw": "電視的;電視影像的;錄影的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "western",
+        "zh_tw": "西方的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "wet",
+        "zh_tw": "潮溼的",
+        "part_of_speech": "adj.3"
+    },
+    {
+        "en": "whatever",
+        "zh_tw": "無論怎麼的",
+        "part_of_speech": "adj.8"
+    },
+    {
+        "en": "wild",
+        "zh_tw": "野生的;無法無天的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "willing",
+        "zh_tw": "願意的,樂意的",
+        "part_of_speech": "adj.7"
+    },
+    {
+        "en": "windy",
+        "zh_tw": "多風的",
+        "part_of_speech": "adj.5"
+    },
+    {
+        "en": "wise",
+        "zh_tw": "有智慧的",
+        "part_of_speech": "adj.4"
+    },
+    {
+        "en": "wonderful",
+        "zh_tw": "很棒的;奇妙的",
+        "part_of_speech": "adj.9"
+    },
+    {
+        "en": "wooden",
+        "zh_tw": "木製的;僵硬的;笨拙的",
+        "part_of_speech": "adj.6"
+    },
+    {
+        "en": "absent",
+        "zh_tw": "缺席",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "accept",
+        "zh_tw": "接受",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "advance",
+        "zh_tw": "推進;提升;貸(款",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "aid",
+        "zh_tw": "有助於",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "aim",
+        "zh_tw": "瞄準,對準",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "alarm",
+        "zh_tw": "向...報警;使驚慌不安",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "amount",
+        "zh_tw": "合計,共計",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "apply",
+        "zh_tw": "塗,敷;應用",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "argue",
+        "zh_tw": "爭論",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "arm",
+        "zh_tw": "用武器裝備;提供,配備; 武裝起來",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "arrange",
+        "zh_tw": "排列;整理",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "arrest",
+        "zh_tw": "逮捕;拘留",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "arrive",
+        "zh_tw": "到達",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "attack",
+        "zh_tw": "進攻;襲擊",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "attend",
+        "zh_tw": "出席,參加;照料;伴隨",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "avoid",
+        "zh_tw": "避免",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "baby-sit",
+        "zh_tw": "當臨時保姆",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "bake",
+        "zh_tw": "烘;烤",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "barbecue",
+        "zh_tw": "(在戶外",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "bark",
+        "zh_tw": "狗叫",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "battle",
+        "zh_tw": "與...作戰",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "BBQ",
+        "zh_tw": "烤肉 barbecue",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "bead",
+        "zh_tw": "用珠裝飾",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bear",
+        "zh_tw": "承受",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "beep",
+        "zh_tw": "作嗶嗶聲;吹警笛",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "beg",
+        "zh_tw": "乞討;懇求",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "belt",
+        "zh_tw": "用皮帶抽打;環繞;猛擊",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bend",
+        "zh_tw": "折彎;轉彎",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bet",
+        "zh_tw": "以(錢;物等",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "bill",
+        "zh_tw": "記入帳",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bind",
+        "zh_tw": "捆;綁",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "blind",
+        "zh_tw": "使看不見,使失明;使失去理智",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "board",
+        "zh_tw": "上車;上船",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "boil",
+        "zh_tw": "(水等",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bomb",
+        "zh_tw": "轟炸,投彈;慘敗",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "borrow",
+        "zh_tw": "借",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "boss",
+        "zh_tw": "指揮;作威作福",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "bother",
+        "zh_tw": "煩擾",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "bottle",
+        "zh_tw": "把...裝入瓶中;約束,抑制(感情",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "bow",
+        "zh_tw": "鞠躬",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "branch",
+        "zh_tw": "出枝;分支;分岔",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "brand",
+        "zh_tw": "印...商標於",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "brief",
+        "zh_tw": "簡報;作...的提要",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "broadcast",
+        "zh_tw": "廣播",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "brush",
+        "zh_tw": "刷",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "burn",
+        "zh_tw": "燒;燙傷",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "burst",
+        "zh_tw": "爆開;闖入",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "button",
+        "zh_tw": "扣鈕扣",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "cable",
+        "zh_tw": "發越洋電報",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "calm",
+        "zh_tw": "變安靜;使鎮定",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "cancel",
+        "zh_tw": "取消",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "carpet",
+        "zh_tw": "在...上鋪地毯;斥責",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "cart",
+        "zh_tw": "用運貨車裝運",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "cartoon",
+        "zh_tw": "畫漫畫;畫草圖",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "cash",
+        "zh_tw": "兌現",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "cave",
+        "zh_tw": "塌落,倒坍",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "chalk",
+        "zh_tw": "使變白;畫出...的草圖;規劃;記下",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "change",
+        "zh_tw": "改變;更改",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "charge",
+        "zh_tw": "索價;充電",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "cheat",
+        "zh_tw": "欺騙;作弊",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "choose",
+        "zh_tw": "選擇;挑選",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "circle",
+        "zh_tw": "畫圓圈;圈出;盤旋;流傳",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "claim",
+        "zh_tw": "聲稱",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "clap",
+        "zh_tw": "拍(手",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "claw",
+        "zh_tw": "用爪子抓",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "clothe",
+        "zh_tw": "給...穿衣;為...提供衣服",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "clown",
+        "zh_tw": "開玩笑;裝傻",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "club",
+        "zh_tw": "募集;捐獻;集資;聯合起來",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "coach",
+        "zh_tw": "訓練,指導,輔導;乘馬車旅行",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "coin",
+        "zh_tw": "鑄造(貨幣",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "collect",
+        "zh_tw": "收集",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "comb",
+        "zh_tw": "用梳子梳理",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "compare",
+        "zh_tw": "比較",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "complain",
+        "zh_tw": "抱怨",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "complete",
+        "zh_tw": "完成",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "confirm",
+        "zh_tw": "確認",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "conflict",
+        "zh_tw": "矛盾,衝突",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "consider",
+        "zh_tw": "考慮",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "contact",
+        "zh_tw": "接觸;聯繫",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "contain",
+        "zh_tw": "包含;容納",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "control",
+        "zh_tw": "控制",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "copy",
+        "zh_tw": "拷貝;抄襲",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "cough",
+        "zh_tw": "咳嗽",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "couple",
+        "zh_tw": "連接;結合;成婚;交配",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "court",
+        "zh_tw": "向...獻殷勤;追求;引誘;求婚",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "crane",
+        "zh_tw": "伸(頸",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "create",
+        "zh_tw": "創造",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "crop",
+        "zh_tw": "收成",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "cross",
+        "zh_tw": "越過;渡過",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "crow",
+        "zh_tw": "得意洋洋,幸災樂禍",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "crowd",
+        "zh_tw": "擠滿;聚集",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "cure",
+        "zh_tw": "治癒",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "curtain",
+        "zh_tw": "(用簾子",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "damage",
+        "zh_tw": "損害",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "dawn",
+        "zh_tw": "破曉, 頓悟",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "debate",
+        "zh_tw": "辯論",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "decorate",
+        "zh_tw": "佈置",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "delay",
+        "zh_tw": "延緩;使延期",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "deliver",
+        "zh_tw": "遞送;發表,講;給……接生",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "deny",
+        "zh_tw": "否定,否認",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "depend",
+        "zh_tw": "依賴",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "describe",
+        "zh_tw": "描述",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "desert",
+        "zh_tw": "遺棄;離棄;逃跑",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "design",
+        "zh_tw": "設計",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "desire",
+        "zh_tw": "渴望;要求;想與...發生性關係",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "detect",
+        "zh_tw": "查出",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "develop",
+        "zh_tw": "發展",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "dial",
+        "zh_tw": "撥(電話號碼",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "disagree",
+        "zh_tw": "不一致,不符",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "disappear",
+        "zh_tw": "消失",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "discuss",
+        "zh_tw": "討論",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "display",
+        "zh_tw": "陳列;展出",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "distance",
+        "zh_tw": "使疏遠",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "divide",
+        "zh_tw": "分開;除以",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "dot",
+        "zh_tw": "點綴; 打點,加點",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "double",
+        "zh_tw": "加倍",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "doubt",
+        "zh_tw": "懷疑",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "drag",
+        "zh_tw": "拉,拖",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "dress",
+        "zh_tw": "穿著",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "drop",
+        "zh_tw": "(使",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "drug",
+        "zh_tw": "使服麻醉藥;使服毒品",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "drum",
+        "zh_tw": "打鼓;咚咚地敲",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "dull",
+        "zh_tw": "弄鈍;使不活躍;減少;減輕",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "earn",
+        "zh_tw": "賺到",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "effect",
+        "zh_tw": "造成;招致",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "elect",
+        "zh_tw": "選出",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "encourage",
+        "zh_tw": "鼓勵;助長",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "enjoy",
+        "zh_tw": "喜歡;享受",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "excite",
+        "zh_tw": "使興奮;使激動",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "excuse",
+        "zh_tw": "原諒;借光",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "exercise",
+        "zh_tw": "鍛鍊;操練;練習;運用,行使",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "exist",
+        "zh_tw": "存在",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "expect",
+        "zh_tw": "期待",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "experience",
+        "zh_tw": "經歷;感受",
+        "part_of_speech": "v.10"
+    },
+    {
+        "en": "explain",
+        "zh_tw": "解釋",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "express",
+        "zh_tw": "表示",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "fail",
+        "zh_tw": "失敗;不及格",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "fault",
+        "zh_tw": "挑...的毛病;產生斷層",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "favor",
+        "zh_tw": "支持,擁護;有利於",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "fence",
+        "zh_tw": "用柵(或籬",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "figure",
+        "zh_tw": "估計;描繪",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "film",
+        "zh_tw": "把...拍成電影;生薄膜",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "firm",
+        "zh_tw": "使穩固;使牢固;變堅實",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "fit",
+        "zh_tw": "合身;適合",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "fix",
+        "zh_tw": "修理",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "flag",
+        "zh_tw": "打旗號表示;衰退,低落",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "flash",
+        "zh_tw": "使閃光;使閃爍",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "flat",
+        "zh_tw": "使變平;降半音",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "flood",
+        "zh_tw": "淹沒;使泛濫",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "flour",
+        "zh_tw": "撒粉於;把...磨成粉",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "flow",
+        "zh_tw": "(河水等",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "flute",
+        "zh_tw": "用長笛奏(樂曲",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "focus",
+        "zh_tw": "集中",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "fool",
+        "zh_tw": "愚弄",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "forgive",
+        "zh_tw": "原諒",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "form",
+        "zh_tw": "形成",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "forward",
+        "zh_tw": "轉遞",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "frighten",
+        "zh_tw": "害怕;吃驚",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "function",
+        "zh_tw": "起作用",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "further",
+        "zh_tw": "更遠地;進一步地;促進;助長",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "gain",
+        "zh_tw": "得到;增進",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "garage",
+        "zh_tw": "把(汽車等",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "gather",
+        "zh_tw": "集合",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "glue",
+        "zh_tw": "黏住;緊附",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "golf",
+        "zh_tw": "打高爾夫球",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "govern",
+        "zh_tw": "統治;管理",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "grade",
+        "zh_tw": "將...分等級;將...分類",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "greet",
+        "zh_tw": "問候;致敬",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "guard",
+        "zh_tw": "保衛;看守",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "hammer",
+        "zh_tw": "敲打",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "handle",
+        "zh_tw": "處理;搬弄",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "hang",
+        "zh_tw": "把…掛起;吊",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "hide",
+        "zh_tw": "躲;隱藏",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "hire",
+        "zh_tw": "雇用",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "hop",
+        "zh_tw": "單足跳",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "hum",
+        "zh_tw": "哼曲子",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "humble",
+        "zh_tw": "使謙卑;使威信掃地",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "hunt",
+        "zh_tw": "追獵",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "hurry",
+        "zh_tw": "趕快",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "ignore",
+        "zh_tw": "不理睬",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "imagine",
+        "zh_tw": "想像",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "improve",
+        "zh_tw": "改善",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "include",
+        "zh_tw": "包含",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "increase",
+        "zh_tw": "增加",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "indicate",
+        "zh_tw": "指出",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "influence",
+        "zh_tw": "影響,感化;左右",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "ink",
+        "zh_tw": "用墨水寫;簽署;簽訂(合同等",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "insist",
+        "zh_tw": "堅持",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "instance",
+        "zh_tw": "舉...為例;引證",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "interview",
+        "zh_tw": "面談;採訪",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "introduce",
+        "zh_tw": "介紹",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "invent",
+        "zh_tw": "發明",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "invite",
+        "zh_tw": "邀請",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "jam",
+        "zh_tw": "擠;夾傷",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "jazz",
+        "zh_tw": "使活潑;奏爵士樂;遊蕩",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "jog",
+        "zh_tw": "慢跑",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "joint",
+        "zh_tw": "連接,接合",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "judge",
+        "zh_tw": "判斷;審判",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "knock",
+        "zh_tw": "敲",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "lend",
+        "zh_tw": "出借",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "lick",
+        "zh_tw": "舔",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "limit",
+        "zh_tw": "限定",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "link",
+        "zh_tw": "聯繫",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "locate",
+        "zh_tw": "把...設置在;使...座落於",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "lock",
+        "zh_tw": "鎖住",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "log",
+        "zh_tw": "伐(林木",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "lose",
+        "zh_tw": "輸;失去",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "lower",
+        "zh_tw": "放下,降下;放低;減低;減弱",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "maintain",
+        "zh_tw": "維持;保養",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "mark",
+        "zh_tw": "做記號",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "mask",
+        "zh_tw": "在(臉上",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "match",
+        "zh_tw": "相配",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "mate",
+        "zh_tw": "使交配",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "measure",
+        "zh_tw": "計量",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "mine",
+        "zh_tw": "開礦;佈雷;破壞",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "mirror",
+        "zh_tw": "反映,反射",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "mix",
+        "zh_tw": "混合",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "model",
+        "zh_tw": "塑像;當模特兒",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "motion",
+        "zh_tw": "打手勢;搖(或點",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "multiply",
+        "zh_tw": "乘,使相乘",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "nail",
+        "zh_tw": "將...釘牢;捕獲;揭露;擊,打",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "narrow",
+        "zh_tw": "變窄;收縮;減少",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "needle",
+        "zh_tw": "(用話",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "neighbor",
+        "zh_tw": "與...為鄰",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "nest",
+        "zh_tw": "築巢;巢居;伏窩",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "net",
+        "zh_tw": "用網捕;使淨賺",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "nod",
+        "zh_tw": "點頭",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "obey",
+        "zh_tw": "服從",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "object",
+        "zh_tw": "反對",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "occur",
+        "zh_tw": "發生;出現",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "offer",
+        "zh_tw": "提供",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "omit",
+        "zh_tw": "略過",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "operate",
+        "zh_tw": "運作;運轉;動手術",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "organize",
+        "zh_tw": "使有條理;安排",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "pack",
+        "zh_tw": "包裝",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "package",
+        "zh_tw": "把...打包;包裝",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "pain",
+        "zh_tw": "使煩惱,使痛苦;使疼痛",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "pardon",
+        "zh_tw": "寬恕",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "parrot",
+        "zh_tw": "機械地模仿",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "paste",
+        "zh_tw": "黏貼",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "pat",
+        "zh_tw": "輕拍,撫拍",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "pattern",
+        "zh_tw": "仿造,模仿",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "pepper",
+        "zh_tw": "加胡椒粉於;使佈滿;嚴懲",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "perfect",
+        "zh_tw": "使完美;做完",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "phone",
+        "zh_tw": "打電話",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "photo",
+        "zh_tw": "給...拍照; 拍照;在照片上顯得",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "photograph",
+        "zh_tw": "拍照",
+        "part_of_speech": "v.10"
+    },
+    {
+        "en": "phrase",
+        "zh_tw": "用言語表達,用(詞",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "pick",
+        "zh_tw": "採收;撿起;選",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "picnic",
+        "zh_tw": "去野餐,參加野餐;在戶外用餐",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "pile",
+        "zh_tw": "堆起",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "pillow",
+        "zh_tw": "枕著頭;靠",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "pin",
+        "zh_tw": "釘住;壓住;按住;把...歸罪於",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "pipe",
+        "zh_tw": "用管道輸送;吹奏管樂;尖聲叫嚷",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "pitch",
+        "zh_tw": "搭(帳篷",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "plate",
+        "zh_tw": "鍍;電鍍",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "poison",
+        "zh_tw": "放毒,下毒",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "pose",
+        "zh_tw": "擺姿勢",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "post",
+        "zh_tw": "郵寄;登入(分類帳等",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "pot",
+        "zh_tw": "把...放在罐(或鍋",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "pound",
+        "zh_tw": "敲打;(心等",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "praise",
+        "zh_tw": "讚美",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "pray",
+        "zh_tw": "禱告",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "prefer",
+        "zh_tw": "更喜歡",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "present",
+        "zh_tw": "提出",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "press",
+        "zh_tw": "壓,擠;催逼",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "pride",
+        "zh_tw": "使得意,以...自豪",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "prize",
+        "zh_tw": "重視,珍視;估價",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "produce",
+        "zh_tw": "製造;出產",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "progress",
+        "zh_tw": "前進;進行;上進,提高,進步",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "project",
+        "zh_tw": "計劃;企劃;突出,伸出;投射",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "promise",
+        "zh_tw": "答應",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "pronounce",
+        "zh_tw": "發...音",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "propose",
+        "zh_tw": "提議",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "protect",
+        "zh_tw": "保護",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "provide",
+        "zh_tw": "供應",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "pump",
+        "zh_tw": "跳動;使用唧筒",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "punish",
+        "zh_tw": "處罰",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "puzzle",
+        "zh_tw": "使迷惑",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "quarter",
+        "zh_tw": "把...四等分;供...住宿;;駐紮",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "quit",
+        "zh_tw": "放棄;離職",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "quiz",
+        "zh_tw": "挖苦,嘲弄;考問",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "range",
+        "zh_tw": "排列",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "realize",
+        "zh_tw": "認知;實現",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "record",
+        "zh_tw": "記錄;錄音",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "refuse",
+        "zh_tw": "拒絕",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "regard",
+        "zh_tw": "把...看作;尊重",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "reject",
+        "zh_tw": "拒絕",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "repeat",
+        "zh_tw": "重複",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "reply",
+        "zh_tw": "回答",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "require",
+        "zh_tw": "需要",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "respect",
+        "zh_tw": "尊敬",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "result",
+        "zh_tw": "發生,產生;結果;導致",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "review",
+        "zh_tw": "溫習;回顧",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "rock",
+        "zh_tw": "搖動",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "rush",
+        "zh_tw": "催促;急送",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "sample",
+        "zh_tw": "取...的樣品;抽樣檢查",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "sandwich",
+        "zh_tw": "將..夾在中間,擠進",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "satisfy",
+        "zh_tw": "使滿意",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "sauce",
+        "zh_tw": "給...加調味汁",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "score",
+        "zh_tw": "得分",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "screen",
+        "zh_tw": "篩選;放映電影",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "search",
+        "zh_tw": "搜尋;搜查",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "section",
+        "zh_tw": "把...分成段(或組等",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "select",
+        "zh_tw": "挑選",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "separate",
+        "zh_tw": "分隔",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "settle",
+        "zh_tw": "安放;安頓;解決(問題等",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "share",
+        "zh_tw": "分享",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "shell",
+        "zh_tw": "剝...的殼;砲轟;射擊",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "shock",
+        "zh_tw": "使震動",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "shoot",
+        "zh_tw": "注射;射擊;拍攝",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "shower",
+        "zh_tw": "傾注;洗淋浴",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "sign",
+        "zh_tw": "簽字;做信號",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "silence",
+        "zh_tw": "使沈默;使啞口無言;使安靜",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "single",
+        "zh_tw": "選出,挑出;擊出一壘安打",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "sink",
+        "zh_tw": "沉下;陷於",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "skirt",
+        "zh_tw": "繞開,避開",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "slide",
+        "zh_tw": "滑壘滑動",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "slim",
+        "zh_tw": "減肥;減少,縮減",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "slip",
+        "zh_tw": "滑動;鬆脫",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "snack",
+        "zh_tw": "吃快餐;吃點心",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "solve",
+        "zh_tw": "解決",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "sort",
+        "zh_tw": "把...分類",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "speed",
+        "zh_tw": "加速;促進",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "spot",
+        "zh_tw": "沾污;察出",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "spread",
+        "zh_tw": "展開;散布",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "spring",
+        "zh_tw": "彈開;湧現;源(於",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "stage",
+        "zh_tw": "上演;籌劃;發動",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "stamp",
+        "zh_tw": "頓足;蓋印",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "steal",
+        "zh_tw": "偷竊",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "steam",
+        "zh_tw": "蒸",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "steel",
+        "zh_tw": "鋼化;給...包上鋼",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "stick",
+        "zh_tw": "黏貼;刺;戮;釘住;插牢;堅持",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "storm",
+        "zh_tw": "猛攻",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "stream",
+        "zh_tw": "流;蜂擁而進",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "stress",
+        "zh_tw": "強調",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "stretch",
+        "zh_tw": "舒展肢體,伸懶腰",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "strike",
+        "zh_tw": "打擊;(鐘",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "string",
+        "zh_tw": "(用線,繩",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "struggle",
+        "zh_tw": "掙扎;對抗",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "subtract",
+        "zh_tw": "減,減去",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "succeed",
+        "zh_tw": "成功",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "suit",
+        "zh_tw": "適合;相稱;彼此協調",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "supply",
+        "zh_tw": "供給,供應",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "support",
+        "zh_tw": "支持",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "surface",
+        "zh_tw": "顯露,呈現;起床,露面",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "survive",
+        "zh_tw": "在...之後仍然活著",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "swallow",
+        "zh_tw": "吞嚥",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "sweep",
+        "zh_tw": "掃",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "swing",
+        "zh_tw": "搖擺;揮動",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "tape",
+        "zh_tw": "用帶子捆紮;用錄音帶為...錄音(或影",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "target",
+        "zh_tw": "把...作為目標(或對象",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "task",
+        "zh_tw": "派給...任務;要...做一項工作",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "team",
+        "zh_tw": "使合作;結成一隊",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "tear",
+        "zh_tw": "撕",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "telephone",
+        "zh_tw": "打電話,通電話",
+        "part_of_speech": "v.9"
+    },
+    {
+        "en": "term",
+        "zh_tw": "把...稱為,把...叫做",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "test",
+        "zh_tw": "試驗;測驗",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "thumb",
+        "zh_tw": "用拇指翻動;迅速翻閱;豎起拇指要求搭車",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "thunder",
+        "zh_tw": "打雷;大聲斥責;威嚇",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "tip",
+        "zh_tw": "給小費;使傾斜",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "title",
+        "zh_tw": "加標題於;授頭銜於",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "toast",
+        "zh_tw": "烤;乾杯",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "toe",
+        "zh_tw": "用腳尖走(或站",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "tongue",
+        "zh_tw": "舔;用舌吹(管樂器",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "tour",
+        "zh_tw": "帶...作巡迴演出",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "towel",
+        "zh_tw": "用毛巾擦",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "tower",
+        "zh_tw": "高聳,屹立;勝過;高飛,翱翔",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "track",
+        "zh_tw": "跟蹤;沿著(道路",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "trade",
+        "zh_tw": "交換; 做買賣,進行交易",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "traffic",
+        "zh_tw": "在...上通行;交易,來來往往",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "trap",
+        "zh_tw": "設陷阱",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "travel",
+        "zh_tw": "旅行",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "treasure",
+        "zh_tw": "珍愛",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "treat",
+        "zh_tw": "對待;治療",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "trick",
+        "zh_tw": "欺騙",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "truck",
+        "zh_tw": "用卡車運送",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "trumpet",
+        "zh_tw": "吹喇叭",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "trust",
+        "zh_tw": "信任",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "tunnel",
+        "zh_tw": "挖掘隧道",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "type",
+        "zh_tw": "打字",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "uniform",
+        "zh_tw": "使成一樣;使一律化",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "vacation",
+        "zh_tw": "度假",
+        "part_of_speech": "v.8"
+    },
+    {
+        "en": "value",
+        "zh_tw": "估價,評價;尊重;重視",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "vote",
+        "zh_tw": "投票",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "wake",
+        "zh_tw": "叫醒",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "wave",
+        "zh_tw": "揮動",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "wed",
+        "zh_tw": "娶;嫁",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "wet",
+        "zh_tw": "把...淋濕,打濕,弄濕;尿濕",
+        "part_of_speech": "v.3"
+    },
+    {
+        "en": "wheel",
+        "zh_tw": "旋轉,轉動",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "whisper",
+        "zh_tw": "低語,耳語",
+        "part_of_speech": "v.7"
+    },
+    {
+        "en": "widen",
+        "zh_tw": "加寬;擴大",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "wing",
+        "zh_tw": "在...裝翼;飛行",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "wire",
+        "zh_tw": "用金屬絲縛;拍電報",
+        "part_of_speech": "v.4"
+    },
+    {
+        "en": "wonder",
+        "zh_tw": "納悶",
+        "part_of_speech": "v.6"
+    },
+    {
+        "en": "wound",
+        "zh_tw": "傷害",
+        "part_of_speech": "v.5"
+    },
+    {
+        "en": "abroad",
+        "zh_tw": "在國外",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "alike",
+        "zh_tw": "一樣地,相似地",
+        "part_of_speech": "adv.5"
+    },
+    {
+        "en": "aloud",
+        "zh_tw": "大聲地",
+        "part_of_speech": "adv.5"
+    },
+    {
+        "en": "altogether",
+        "zh_tw": "完全地;總共",
+        "part_of_speech": "adv.10"
+    },
+    {
+        "en": "anyhow",
+        "zh_tw": "無論如何,總之",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "anyplace",
+        "zh_tw": "任何地方(=anywhere",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "anytime",
+        "zh_tw": "在任何時候",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "anyway",
+        "zh_tw": "不管怎樣",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "anywhere",
+        "zh_tw": "任何地方",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "backward",
+        "zh_tw": "向後地;落後地",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "backwards",
+        "zh_tw": "向後;倒,逆;往回,向原處",
+        "part_of_speech": "adv.9"
+    },
+    {
+        "en": "besides",
+        "zh_tw": "並且",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "beyond",
+        "zh_tw": "在更遠處",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "cheap",
+        "zh_tw": "便宜地;卑鄙地",
+        "part_of_speech": "adv.5"
+    },
+    {
+        "en": "daily",
+        "zh_tw": "每日",
+        "part_of_speech": "adv.5"
+    },
+    {
+        "en": "double",
+        "zh_tw": "雙倍地;加倍地;雙重地",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "downtown",
+        "zh_tw": "往城市商業區",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "especially",
+        "zh_tw": "特別地",
+        "part_of_speech": "adv.10"
+    },
+    {
+        "en": "express",
+        "zh_tw": "用快遞;由直達快車;特意地",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "extra",
+        "zh_tw": "額外地;另外;特別地,非常地",
+        "part_of_speech": "adv.5"
+    },
+    {
+        "en": "fair",
+        "zh_tw": "公平地,公正地;正面地",
+        "part_of_speech": "adv.4"
+    },
+    {
+        "en": "firm",
+        "zh_tw": "穩固地;牢固地",
+        "part_of_speech": "adv.4"
+    },
+    {
+        "en": "flat",
+        "zh_tw": "平直地,仰臥地;恰恰,正好;斷然地",
+        "part_of_speech": "adv.4"
+    },
+    {
+        "en": "forward",
+        "zh_tw": "向前地",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "forwards",
+        "zh_tw": "向前;往後,今後;提前地",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "further",
+        "zh_tw": "而且;再者",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "hardly",
+        "zh_tw": "幾乎不,簡直不",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "however",
+        "zh_tw": "無論如何,不管怎樣",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "ill",
+        "zh_tw": "惡劣地;困難地;不利地",
+        "part_of_speech": "adv.3"
+    },
+    {
+        "en": "increasingly",
+        "zh_tw": "漸增地",
+        "part_of_speech": "adv.12"
+    },
+    {
+        "en": "nearby",
+        "zh_tw": "在附近",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "nearly",
+        "zh_tw": "幾乎,差不多;密切地,親密地",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "neither",
+        "zh_tw": "也不",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "none",
+        "zh_tw": "毫不,決不",
+        "part_of_speech": "adv.4"
+    },
+    {
+        "en": "overseas",
+        "zh_tw": "在海外",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "rather",
+        "zh_tw": "寧可;頗為",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "simply",
+        "zh_tw": "簡單地,簡易地;簡明地;只不過",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "somewhere",
+        "zh_tw": "在某處",
+        "part_of_speech": "adv.9"
+    },
+    {
+        "en": "straight",
+        "zh_tw": "直,挺直地;正直地;立刻",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "therefore",
+        "zh_tw": "因此",
+        "part_of_speech": "adv.9"
+    },
+    {
+        "en": "through",
+        "zh_tw": "穿過,通過;從頭至尾;(電話",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "throughout",
+        "zh_tw": "處處;始終;在所有方面",
+        "part_of_speech": "adv.10"
+    },
+    {
+        "en": "whenever",
+        "zh_tw": "無論什麼時候",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "wherever",
+        "zh_tw": "無論什麼地方",
+        "part_of_speech": "adv.8"
+    },
+    {
+        "en": "wild",
+        "zh_tw": "狂暴地;無控制地;胡亂地",
+        "part_of_speech": "adv.4"
+    },
+    {
+        "en": "within",
+        "zh_tw": "在內部",
+        "part_of_speech": "adv.6"
+    },
+    {
+        "en": "without",
+        "zh_tw": "在沒有(或缺少",
+        "part_of_speech": "adv.7"
+    },
+    {
+        "en": "besides",
+        "zh_tw": "除...之外",
+        "part_of_speech": "prep.7"
+    },
+    {
+        "en": "beyond",
+        "zh_tw": "越出;晚於;在...那一邊",
+        "part_of_speech": "prep.6"
+    },
+    {
+        "en": "following",
+        "zh_tw": "在...以後",
+        "part_of_speech": "prep.9"
+    },
+    {
+        "en": "minus",
+        "zh_tw": "減（去）",
+        "part_of_speech": "prep.5"
+    },
+    {
+        "en": "per",
+        "zh_tw": "經,由;每;按照",
+        "part_of_speech": "prep.3"
+    },
+    {
+        "en": "plus",
+        "zh_tw": "加(上",
+        "part_of_speech": "prep.4"
+    },
+    {
+        "en": "through",
+        "zh_tw": "經過",
+        "part_of_speech": "prep.7"
+    },
+    {
+        "en": "throughout",
+        "zh_tw": "遍及",
+        "part_of_speech": "prep.10"
+    },
+    {
+        "en": "upon",
+        "zh_tw": "在...之上",
+        "part_of_speech": "prep.4"
+    },
+    {
+        "en": "within",
+        "zh_tw": "在…裡; 不超過",
+        "part_of_speech": "prep.6"
+    },
+    {
+        "en": "without",
+        "zh_tw": "沒有",
+        "part_of_speech": "prep.7"
+    },
+    {
+        "en": "worth",
+        "zh_tw": "值得(做...",
+        "part_of_speech": "prep.5"
+    },
+    {
+        "en": "although",
+        "zh_tw": "雖然",
+        "part_of_speech": "conj.8"
+    },
+    {
+        "en": "neither",
+        "zh_tw": "也不",
+        "part_of_speech": "conj.7"
+    },
+    {
+        "en": "whenever",
+        "zh_tw": "無論什麼時候;每當",
+        "part_of_speech": "conj.8"
+    },
+    {
+        "en": "wherever",
+        "zh_tw": "無論在哪裡",
+        "part_of_speech": "conj.8"
+    },
+    {
+        "en": "ability",
+        "zh_tw": "能力;專門技能",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "absence",
+        "zh_tw": "缺席",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "addition",
+        "zh_tw": "加;附加",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "advance",
+        "zh_tw": "前進;發展;預付",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "affair",
+        "zh_tw": "事件;風流韻事;喜慶活動",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "aid",
+        "zh_tw": "幫助;助手;助聽器",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "aim",
+        "zh_tw": "目標,目的",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "aircraft",
+        "zh_tw": "航空器;飛機",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "airline",
+        "zh_tw": "航空公司",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "alarm",
+        "zh_tw": "警鈴;警報;驚慌",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "album",
+        "zh_tw": "相簿;集郵簿;唱片集",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "almond",
+        "zh_tw": "杏仁",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "alphabet",
+        "zh_tw": "字母",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "amount",
+        "zh_tw": "總數",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "ankle",
+        "zh_tw": "腳踝",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "apartment",
+        "zh_tw": "公寓",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "appearance",
+        "zh_tw": "出現;顯露;外貌",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "appetite",
+        "zh_tw": "胃口,食慾",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "apron",
+        "zh_tw": "圍裙;工作裙",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "argument",
+        "zh_tw": "爭論",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "armchair",
+        "zh_tw": "扶手椅子",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "arrangement",
+        "zh_tw": "安排;準備工作",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "arrest",
+        "zh_tw": "逮捕;遏止",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "arrow",
+        "zh_tw": "箭;箭號",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "artist",
+        "zh_tw": "藝術家",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "assistant",
+        "zh_tw": "助手",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "attack",
+        "zh_tw": "攻擊",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "attention",
+        "zh_tw": "注意;專心",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "baby-sitter",
+        "zh_tw": "保姆",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "bakery",
+        "zh_tw": "麵包店",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "balcony",
+        "zh_tw": "陽臺",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "bamboo",
+        "zh_tw": "竹子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "banker",
+        "zh_tw": "銀行家;莊家",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "barbecue",
+        "zh_tw": "烤肉",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "bark",
+        "zh_tw": "吠聲",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "basement",
+        "zh_tw": "地下室",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "basics",
+        "zh_tw": "基礎;基本原理(或原則",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "basis",
+        "zh_tw": "基礎",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "battle",
+        "zh_tw": "戰鬥;戰役",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "bead",
+        "zh_tw": "有孔小珠",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bean",
+        "zh_tw": "豆莢;豆子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "beard",
+        "zh_tw": "鬍子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "bedroom",
+        "zh_tw": "臥房",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "beef",
+        "zh_tw": "牛肉",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "beep",
+        "zh_tw": "嗶嗶的聲音",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "beer",
+        "zh_tw": "啤酒",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "beetle",
+        "zh_tw": "甲蟲",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "beginner",
+        "zh_tw": "新手",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "belief",
+        "zh_tw": "相信;信仰",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "belt",
+        "zh_tw": "腰帶",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bench",
+        "zh_tw": "長凳;長椅",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "bend",
+        "zh_tw": "彎;曲;俯",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bet",
+        "zh_tw": "打賭",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "bill",
+        "zh_tw": "帳單; 鈔票",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "blackboard",
+        "zh_tw": "黑板",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "blank",
+        "zh_tw": "空白",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "board",
+        "zh_tw": "木板;膳食;車上;船上; 董事會",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "boil",
+        "zh_tw": "沸騰;煮沸;翻滾",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bomb",
+        "zh_tw": "炸彈",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bookcase",
+        "zh_tw": "書架",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "boss",
+        "zh_tw": "老闆",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "bother",
+        "zh_tw": "煩惱,麻煩;使人煩惱的人(或事物",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "bottle",
+        "zh_tw": "瓶子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "bow",
+        "zh_tw": "弓",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "bowling",
+        "zh_tw": "保齡球戲",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "brain",
+        "zh_tw": "腦;智力,頭腦",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "branch",
+        "zh_tw": "樹枝;支部",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "brand",
+        "zh_tw": "商標",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "brick",
+        "zh_tw": "磚塊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "brief",
+        "zh_tw": "概要;訴書;短而緊的內褲;簡報",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "broadcast",
+        "zh_tw": "廣播;廣播節目;散佈;播種",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "brunch",
+        "zh_tw": "早午餐",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "brush",
+        "zh_tw": "刷子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "bun",
+        "zh_tw": "小圓麵包",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "bundle",
+        "zh_tw": "捆;大量",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "burger",
+        "zh_tw": "漢堡牛肉餅",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "burn",
+        "zh_tw": "灼傷",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "burst",
+        "zh_tw": "爆炸;破裂;缺口",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "business",
+        "zh_tw": "商業;事",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "button",
+        "zh_tw": "鈕扣",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cabbage",
+        "zh_tw": "包心菜",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "cable",
+        "zh_tw": "纜索;有線電視",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "café",
+        "zh_tw": "小餐館;咖啡廳",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cafeteria",
+        "zh_tw": "自助餐館",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "calendar",
+        "zh_tw": "日曆;月曆;行事曆",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "calm",
+        "zh_tw": "安靜;鎮定;平靜;無風",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cancer",
+        "zh_tw": "癌症",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "candle",
+        "zh_tw": "蠟燭",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "captain",
+        "zh_tw": "隊長;機長;艦長",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "carpet",
+        "zh_tw": "地毯",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "carrot",
+        "zh_tw": "胡蘿蔔",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cart",
+        "zh_tw": "手推車",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cartoon",
+        "zh_tw": "卡通",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "cash",
+        "zh_tw": "現款",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cassette",
+        "zh_tw": "卡式磁帶",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "castle",
+        "zh_tw": "城堡",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "catsup",
+        "zh_tw": "果醬;番茄醬",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cave",
+        "zh_tw": "洞穴,洞窟",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "ceiling",
+        "zh_tw": "天花板",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "cell",
+        "zh_tw": "單人牢房;細胞;蜂房的巢室;電池",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "century",
+        "zh_tw": "一世紀",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "cereal",
+        "zh_tw": "麥片",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "chalk",
+        "zh_tw": "粉筆",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "change",
+        "zh_tw": "零錢",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "character",
+        "zh_tw": "特性;角色;(中文",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "charge",
+        "zh_tw": "費用;充電",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cheat",
+        "zh_tw": "騙子;欺詐,欺騙,作弊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "chemical",
+        "zh_tw": "化學製品;化學藥品",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "chess",
+        "zh_tw": "西洋棋",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "chin",
+        "zh_tw": "下巴",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "chocolate",
+        "zh_tw": "巧克力",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "choice",
+        "zh_tw": "選擇",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "chopstick",
+        "zh_tw": "筷子",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "circle",
+        "zh_tw": "圓圈;集團",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "citizen",
+        "zh_tw": "市民;公民",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "claim",
+        "zh_tw": "主張,斷言",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "clap",
+        "zh_tw": "拍手喝采(聲",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "classic",
+        "zh_tw": "古典著作",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "claw",
+        "zh_tw": "(動物的",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "clay",
+        "zh_tw": "黏土",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cleaner",
+        "zh_tw": "清潔工;乾洗店;吸塵器;清潔劑",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "clerk",
+        "zh_tw": "店員;辦事員;職員",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "climate",
+        "zh_tw": "氣候",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "closet",
+        "zh_tw": "壁櫥;衣櫥",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cloth",
+        "zh_tw": "布;(棉,毛,合成纖維等",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "clothes",
+        "zh_tw": "衣服",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "clothing",
+        "zh_tw": "(總稱",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "clown",
+        "zh_tw": "小丑,丑角",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "club",
+        "zh_tw": "俱樂部;夜總會;社團",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "coach",
+        "zh_tw": "教練",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "coal",
+        "zh_tw": "煤",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cock",
+        "zh_tw": "公雞",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cockroach",
+        "zh_tw": "蟑螂",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "coin",
+        "zh_tw": "硬幣",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "comb",
+        "zh_tw": "梳子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "company",
+        "zh_tw": "公司",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "completion",
+        "zh_tw": "完成,實現",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "computer",
+        "zh_tw": "電腦",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "conflict",
+        "zh_tw": "抵觸,不一致",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "Confucius",
+        "zh_tw": "孔子",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "congratulation",
+        "zh_tw": "祝賀",
+        "part_of_speech": "n.14"
+    },
+    {
+        "en": "contact",
+        "zh_tw": "接觸;隱形眼鏡",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "control",
+        "zh_tw": "支配;控制;操縱裝置;指揮部",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "controller",
+        "zh_tw": "主計官;主管;控制器",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "conversation",
+        "zh_tw": "會話",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "cooker",
+        "zh_tw": "炊具,烹調器具",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "copy",
+        "zh_tw": "拷貝;副本",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "corner",
+        "zh_tw": "角落",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cotton",
+        "zh_tw": "棉花",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cough",
+        "zh_tw": "咳嗽",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "countryside",
+        "zh_tw": "鄉間,農村",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "county",
+        "zh_tw": "郡",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "couple",
+        "zh_tw": "一對",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "courage",
+        "zh_tw": "勇氣",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "court",
+        "zh_tw": "法庭；(網球等的",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "cousin",
+        "zh_tw": "表(堂",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "crab",
+        "zh_tw": "螃蟹",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "crane",
+        "zh_tw": "起重機,吊車",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "crayon",
+        "zh_tw": "蠟筆",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "cream",
+        "zh_tw": "奶油",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "crime",
+        "zh_tw": "犯罪",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "crisis",
+        "zh_tw": "危機;緊急關頭",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "crop",
+        "zh_tw": "作物",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "cross",
+        "zh_tw": "十字架",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "crowd",
+        "zh_tw": "群眾",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "culture",
+        "zh_tw": "文化",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "cure",
+        "zh_tw": "痊癒",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "curtain",
+        "zh_tw": "窗簾;(舞臺上的",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "custom",
+        "zh_tw": "習俗",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "customer",
+        "zh_tw": "顧客",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "daily",
+        "zh_tw": "日報",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "damage",
+        "zh_tw": "損害",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "data",
+        "zh_tw": "資料,數據",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "dawn",
+        "zh_tw": "黎明",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "debate",
+        "zh_tw": "辯論",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "debt",
+        "zh_tw": "債,借款",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "decision",
+        "zh_tw": "決定",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "degree",
+        "zh_tw": "程度",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "delay",
+        "zh_tw": "延遲;耽擱",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "dentist",
+        "zh_tw": "牙醫",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "department",
+        "zh_tw": "部門",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "depth",
+        "zh_tw": "深度,厚度",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "desert",
+        "zh_tw": "沙漠;(常複數",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "design",
+        "zh_tw": "圖案;設計",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "desire",
+        "zh_tw": "渴望",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "dessert",
+        "zh_tw": "餐後甜點",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "development",
+        "zh_tw": "生長;發展",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "dew",
+        "zh_tw": "露水;朝氣",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "dial",
+        "zh_tw": "刻度盤;調節器;撥號盤",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "diamond",
+        "zh_tw": "鑽石",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "diary",
+        "zh_tw": "日記",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "dictionary",
+        "zh_tw": "字典",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "difference",
+        "zh_tw": "差別",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "difficulty",
+        "zh_tw": "困難",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "dinosaur",
+        "zh_tw": "恐龍",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "direction",
+        "zh_tw": "方向; 指示",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "director",
+        "zh_tw": "董事;局長;主任;導演",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "disagreement",
+        "zh_tw": "意見不一;不一致",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "discussion",
+        "zh_tw": "討論",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "display",
+        "zh_tw": "展覽,陳列",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "distance",
+        "zh_tw": "距離",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "divide",
+        "zh_tw": "分歧,不和;分水嶺",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "division",
+        "zh_tw": "區域;部分;除(法",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "dolphin",
+        "zh_tw": "海豚",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "donkey",
+        "zh_tw": "驢子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "dot",
+        "zh_tw": "點;小圓點",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "double",
+        "zh_tw": "兩倍",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "doubt",
+        "zh_tw": "懷疑",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "doughnut",
+        "zh_tw": "油炸圈餅",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "downtown",
+        "zh_tw": "城市商業區",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "drag",
+        "zh_tw": "拖曳",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "dragon",
+        "zh_tw": "龍",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "dragonfly",
+        "zh_tw": "蜻蜓",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "drama",
+        "zh_tw": "戲劇",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "drawer",
+        "zh_tw": "抽屜",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "drawing",
+        "zh_tw": "描繪,素描;製圖;抽籤;提款",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "dress",
+        "zh_tw": "洋裝",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "drop",
+        "zh_tw": "(一",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "drug",
+        "zh_tw": "藥品;毒品",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "drugstore",
+        "zh_tw": "(常兼售雜貨的",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "drum",
+        "zh_tw": "鼓",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "dryer",
+        "zh_tw": "烘衣機",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "dumpling",
+        "zh_tw": "餃子",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "duty",
+        "zh_tw": "義務;關稅",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "earthquake",
+        "zh_tw": "地震",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "education",
+        "zh_tw": "教育",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "effect",
+        "zh_tw": "效力;作用",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "effort",
+        "zh_tw": "努力",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "elder",
+        "zh_tw": "長輩",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "element",
+        "zh_tw": "要素,成分",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "elevator",
+        "zh_tw": "電梯;升降機",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "emotion",
+        "zh_tw": "情緒",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "encouragement",
+        "zh_tw": "鼓勵;獎勵;促進",
+        "part_of_speech": "n.13"
+    },
+    {
+        "en": "ending",
+        "zh_tw": "結局,結尾;終結;字尾",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "enemy",
+        "zh_tw": "敵人",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "energy",
+        "zh_tw": "精力;能量",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "enjoyment",
+        "zh_tw": "樂趣,享受",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "entrance",
+        "zh_tw": "入口",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "envelope",
+        "zh_tw": "信封",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "environment",
+        "zh_tw": "環境",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "eraser",
+        "zh_tw": "橡皮擦",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "error",
+        "zh_tw": "錯誤",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "event",
+        "zh_tw": "事件",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "excitement",
+        "zh_tw": "刺激;興奮,激動",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "excuse",
+        "zh_tw": "藉口",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "exercise",
+        "zh_tw": "運動;習題",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "experience",
+        "zh_tw": "經驗",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "expert",
+        "zh_tw": "專家;能手",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "express",
+        "zh_tw": "快車;快遞;快運",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "extra",
+        "zh_tw": "附加的人物或錢;號外",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "eyebrow",
+        "zh_tw": "眉,眉毛",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "fail",
+        "zh_tw": "不及格",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "failure",
+        "zh_tw": "失敗",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "fair",
+        "zh_tw": "商品展覽會",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "fault",
+        "zh_tw": "過錯",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "favor",
+        "zh_tw": "偏愛;偏袒",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "favorite",
+        "zh_tw": "特別喜愛的人(或物",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "fee",
+        "zh_tw": "費用",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "fellow",
+        "zh_tw": "伙伴;同事",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "female",
+        "zh_tw": "雌性動物",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "fence",
+        "zh_tw": "柵欄;籬笆",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "festival",
+        "zh_tw": "節日",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "fever",
+        "zh_tw": "發燒",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "field",
+        "zh_tw": "原野;田賽場地;野外",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "fighter",
+        "zh_tw": "戰士,鬥士",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "figure",
+        "zh_tw": "外形;數字;圖表;(溜冰等",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "film",
+        "zh_tw": "膠捲;影片",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "fireman",
+        "zh_tw": "消防隊員",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "firewoman",
+        "zh_tw": "女消防隊員",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "fisherman",
+        "zh_tw": "漁夫",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "fit",
+        "zh_tw": "適合;合身",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "fix",
+        "zh_tw": "困境;窘境;賄賂;定位",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "flag",
+        "zh_tw": "旗子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "flash",
+        "zh_tw": "閃光,閃爍",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "flashlight",
+        "zh_tw": "手電筒",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "flat",
+        "zh_tw": "平坦部分",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "flight",
+        "zh_tw": "飛行",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "flood",
+        "zh_tw": "洪水,水災",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "flour",
+        "zh_tw": "麵粉",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "flow",
+        "zh_tw": "流動",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "flu",
+        "zh_tw": "流行性感冒",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "flute",
+        "zh_tw": "橫笛",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "focus",
+        "zh_tw": "焦點",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "following",
+        "zh_tw": "一批追隨者;下列事物(或人員",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "fool",
+        "zh_tw": "呆子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "football",
+        "zh_tw": "美式足球",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "foreigner",
+        "zh_tw": "外國人",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "form",
+        "zh_tw": "形態;表格",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "forward",
+        "zh_tw": "前鋒",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "fox",
+        "zh_tw": "狐狸",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "freedom",
+        "zh_tw": "自由",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "freezer",
+        "zh_tw": "冰箱的冷凍部;冷凍箱",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "fridge",
+        "zh_tw": "電冰箱",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "fright",
+        "zh_tw": "驚嚇,恐怖",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "function",
+        "zh_tw": "功能,作用;函數",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "future",
+        "zh_tw": "未來",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "gain",
+        "zh_tw": "獲得;增加;獲利;收益",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "garage",
+        "zh_tw": "車庫",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "garbage",
+        "zh_tw": "垃圾",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "gardener",
+        "zh_tw": "園丁;花匠",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "gate",
+        "zh_tw": "柵門;登機門",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "general",
+        "zh_tw": "將軍",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "gentleman",
+        "zh_tw": "紳士",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "geography",
+        "zh_tw": "地理",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "giant",
+        "zh_tw": "巨人",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "giraffe",
+        "zh_tw": "長頸鹿",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "glove",
+        "zh_tw": "手套",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "glue",
+        "zh_tw": "膠;膠水",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "goal",
+        "zh_tw": "目標;球門",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "goat",
+        "zh_tw": "山羊",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "golf",
+        "zh_tw": "高爾夫球",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "government",
+        "zh_tw": "政府",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "grade",
+        "zh_tw": "年級;分數",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "grape",
+        "zh_tw": "葡萄",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "growth",
+        "zh_tw": "成長;發育;增大",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "guard",
+        "zh_tw": "警衛",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "guava",
+        "zh_tw": "番石榴",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "guitar",
+        "zh_tw": "吉他",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "guy",
+        "zh_tw": "傢伙;人",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "habit",
+        "zh_tw": "習慣",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "hall",
+        "zh_tw": "大廳;講堂",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "hamburger",
+        "zh_tw": "漢堡",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "hammer",
+        "zh_tw": "鎚",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "handkerchief",
+        "zh_tw": "手帕",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "handle",
+        "zh_tw": "把手",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "hanger",
+        "zh_tw": "衣架",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "heater",
+        "zh_tw": "暖氣機",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "height",
+        "zh_tw": "高度",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "hen",
+        "zh_tw": "母雞",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "hero",
+        "zh_tw": "英雄",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "heroine",
+        "zh_tw": "女英雄,女傑",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "highway",
+        "zh_tw": "公路;幹道",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "hip",
+        "zh_tw": "臀部",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "hippo",
+        "zh_tw": "河馬",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "hippopotamus",
+        "zh_tw": "河馬",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "hire",
+        "zh_tw": "租用,雇用",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "hobby",
+        "zh_tw": "嗜好",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "holder",
+        "zh_tw": "持有者;支托物",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "honey",
+        "zh_tw": "蜂蜜;心愛的人",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "hop",
+        "zh_tw": "單足跳;跳躍;麻藥(尤指鴉片",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "hospital",
+        "zh_tw": "醫院",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "host",
+        "zh_tw": "主人",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "hostess",
+        "zh_tw": "女主人",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "hotel",
+        "zh_tw": "旅館",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "hum",
+        "zh_tw": "嗡嗡聲",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "humor",
+        "zh_tw": "幽默",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "hunger",
+        "zh_tw": "饑餓",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "hunt",
+        "zh_tw": "打獵;搜尋",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "hunter",
+        "zh_tw": "獵人",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "hurry",
+        "zh_tw": "匆忙",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "icebox",
+        "zh_tw": "冷藏庫;冰箱",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "ill",
+        "zh_tw": "不幸;禍害",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "importance",
+        "zh_tw": "重要性",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "improvement",
+        "zh_tw": "改進,改善",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "income",
+        "zh_tw": "收入",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "increase",
+        "zh_tw": "增加;增強",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "independence",
+        "zh_tw": "獨立;自主;自立",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "industry",
+        "zh_tw": "企業;行業",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "influence",
+        "zh_tw": "影響",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "ink",
+        "zh_tw": "墨水",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "insect",
+        "zh_tw": "昆蟲",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "instance",
+        "zh_tw": "例子",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "instant",
+        "zh_tw": "瞬間",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "instrument",
+        "zh_tw": "儀器",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "interview",
+        "zh_tw": "面談;採訪",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "invitation",
+        "zh_tw": "邀請",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "island",
+        "zh_tw": "島嶼",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "item",
+        "zh_tw": "項目;品目",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "jacket",
+        "zh_tw": "夾克;外套",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "jam",
+        "zh_tw": "果醬;擁塞",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "jazz",
+        "zh_tw": "爵士樂",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "jeans",
+        "zh_tw": "牛仔褲",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "jeep",
+        "zh_tw": "吉普車",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "jog",
+        "zh_tw": "輕推;輕撞;慢跑;緩行;暗示",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "joint",
+        "zh_tw": "接頭,接縫;關節",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "judge",
+        "zh_tw": "法官",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "judgement",
+        "zh_tw": "審判; 裁判;評價",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "judgment",
+        "zh_tw": "審判;裁判;判斷力",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "ketchup",
+        "zh_tw": "番茄醬",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "kindergarten",
+        "zh_tw": "幼稚園",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "kingdom",
+        "zh_tw": "王國",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "knock",
+        "zh_tw": "敲;擊,打;指摘,挑剔",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "knowledge",
+        "zh_tw": "學問;知識",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "koala",
+        "zh_tw": "澳洲產無尾熊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "ladybird",
+        "zh_tw": "瓢蟲",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "ladybug",
+        "zh_tw": "瓢蟲",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "lane",
+        "zh_tw": "巷,弄;車道",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "language",
+        "zh_tw": "語言",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "lantern",
+        "zh_tw": "燈籠",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "lap",
+        "zh_tw": "膝部;(衣,裙等的",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "lawyer",
+        "zh_tw": "律師",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "leadership",
+        "zh_tw": "領導才能",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "lemon",
+        "zh_tw": "檸檬",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "lemonade",
+        "zh_tw": "檸檬水",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "length",
+        "zh_tw": "(距離,尺寸的",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "leopard",
+        "zh_tw": "豹;美洲豹",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "lettuce",
+        "zh_tw": "類似萵苣的生菜",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "library",
+        "zh_tw": "圖書館",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "lick",
+        "zh_tw": "舔,舐;少量",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "lid",
+        "zh_tw": "蓋子",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "lightning",
+        "zh_tw": "閃電",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "limit",
+        "zh_tw": "限度",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "link",
+        "zh_tw": "環節",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "liquid",
+        "zh_tw": "液體",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "listener",
+        "zh_tw": "傾聽者",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "loaf",
+        "zh_tw": "一條(麵包",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "local",
+        "zh_tw": "當地居民",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "lock",
+        "zh_tw": "鎖",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "log",
+        "zh_tw": "原木;木料;工作記錄簿",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "loser",
+        "zh_tw": "輸家",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "loss",
+        "zh_tw": "損失",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "lover",
+        "zh_tw": "情人",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "luck",
+        "zh_tw": "好運;幸運",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "magazine",
+        "zh_tw": "雜誌",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "magic",
+        "zh_tw": "魔術",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "magician",
+        "zh_tw": "魔術師",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "main",
+        "zh_tw": "總管道;主要部分;要點",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "male",
+        "zh_tw": "雄性動物",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "Mandarin",
+        "zh_tw": "中國的官話(北京話",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "mango",
+        "zh_tw": "芒果",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "manner",
+        "zh_tw": "舉止;態度",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "mark",
+        "zh_tw": "記號",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "marriage",
+        "zh_tw": "結婚,婚姻",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "mask",
+        "zh_tw": "面具",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "mass",
+        "zh_tw": "團;塊",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "mat",
+        "zh_tw": "蓆子;墊子",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "match",
+        "zh_tw": "比賽,競賽;對手;相配者;火柴",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "mate",
+        "zh_tw": "同伴,伙伴",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "meal",
+        "zh_tw": "餐",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "meaning",
+        "zh_tw": "意義",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "means",
+        "zh_tw": "手段,方法;工具;收入",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "measurement",
+        "zh_tw": "測量法;測定;尺寸",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "medicine",
+        "zh_tw": "藥",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "meeting",
+        "zh_tw": "集會",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "melody",
+        "zh_tw": "旋律;主調",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "melon",
+        "zh_tw": "瓜,甜瓜",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "member",
+        "zh_tw": "會員",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "memory",
+        "zh_tw": "記憶",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "menu",
+        "zh_tw": "菜單",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "message",
+        "zh_tw": "消息;音信",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "metal",
+        "zh_tw": "金屬",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "meter",
+        "zh_tw": "公尺;計量器",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "method",
+        "zh_tw": "方法",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "metro",
+        "zh_tw": "地下鐵道",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "military",
+        "zh_tw": "軍隊",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "million",
+        "zh_tw": "百萬",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "mine",
+        "zh_tw": "我的東西;礦;源泉;地雷;坑道",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "minus",
+        "zh_tw": "負號",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "mirror",
+        "zh_tw": "鏡子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "mix",
+        "zh_tw": "混和,攪和;結合",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "model",
+        "zh_tw": "模型;模特兒",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "monster",
+        "zh_tw": "怪物",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "mosquito",
+        "zh_tw": "蚊子",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "moth",
+        "zh_tw": "蛾;蠹,蛀蟲",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "motion",
+        "zh_tw": "移動",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "motorcycle",
+        "zh_tw": "機車",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "mule",
+        "zh_tw": "騾;固執的人",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "museum",
+        "zh_tw": "博物館",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "musician",
+        "zh_tw": "音樂家",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "nail",
+        "zh_tw": "釘子;指甲",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "napkin",
+        "zh_tw": "餐巾",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "necklace",
+        "zh_tw": "項鍊",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "needle",
+        "zh_tw": "針",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "negative",
+        "zh_tw": "否定語;負數;陰電;底片",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "neighbor",
+        "zh_tw": "鄰居",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "nephew",
+        "zh_tw": "侄子;外甥",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "nest",
+        "zh_tw": "巢",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "net",
+        "zh_tw": "網子",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "niece",
+        "zh_tw": "侄女;外甥女",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "nobody",
+        "zh_tw": "無名小子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "nod",
+        "zh_tw": "點頭",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "noodle",
+        "zh_tw": "麵",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "notebook",
+        "zh_tw": "筆記本",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "novel",
+        "zh_tw": "小說",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "nut",
+        "zh_tw": "核果",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "object",
+        "zh_tw": "物件",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "offer",
+        "zh_tw": "提供,提議;出價;報價",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "official",
+        "zh_tw": "官員,公務員",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "onion",
+        "zh_tw": "洋蔥",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "opinion",
+        "zh_tw": "意見",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "organ",
+        "zh_tw": "器官",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "organization",
+        "zh_tw": "組織",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "oven",
+        "zh_tw": "烤箱",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "overpass",
+        "zh_tw": "天橋",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "owl",
+        "zh_tw": "貓頭鷹",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "owner",
+        "zh_tw": "物主",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "ox",
+        "zh_tw": "公牛",
+        "part_of_speech": "n.2"
+    },
+    {
+        "en": "pack",
+        "zh_tw": "一小包",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "package",
+        "zh_tw": "包裹",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "pain",
+        "zh_tw": "疼痛;痛苦",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "painter",
+        "zh_tw": "油漆匠;畫家",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "painting",
+        "zh_tw": "油畫,水彩畫",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "pajamas",
+        "zh_tw": "睡衣",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "palm",
+        "zh_tw": "手掌,手心",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pan",
+        "zh_tw": "平鍋",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "panda",
+        "zh_tw": "貓熊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "papaya",
+        "zh_tw": "木瓜",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pardon",
+        "zh_tw": "原諒,饒恕,寬恕;赦免",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "parrot",
+        "zh_tw": "鸚鵡",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "partner",
+        "zh_tw": "夥伴",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "passenger",
+        "zh_tw": "乘客",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "paste",
+        "zh_tw": "漿糊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "pat",
+        "zh_tw": "輕拍,輕打",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "path",
+        "zh_tw": "小徑;路線",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "patient",
+        "zh_tw": "病人",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "pattern",
+        "zh_tw": "圖案;模式",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "peace",
+        "zh_tw": "和平",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "peach",
+        "zh_tw": "桃子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "peanut",
+        "zh_tw": "花生;花生果;花生米",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pear",
+        "zh_tw": "梨子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "penguin",
+        "zh_tw": "企鵝",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "pepper",
+        "zh_tw": "胡椒;辣椒",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "perfect",
+        "zh_tw": "完成式",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "period",
+        "zh_tw": "一段時間;一堂課",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "phone",
+        "zh_tw": "電話",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "photo",
+        "zh_tw": "相片",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "photograph",
+        "zh_tw": "照片",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "photographer",
+        "zh_tw": "攝影師,照相師",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "phrase",
+        "zh_tw": "片語,詞組",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pick",
+        "zh_tw": "精華,最好的部分;收穫(量",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "picnic",
+        "zh_tw": "野餐",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pigeon",
+        "zh_tw": "鴿子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pile",
+        "zh_tw": "一堆",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pillow",
+        "zh_tw": "枕頭",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pin",
+        "zh_tw": "大頭針;胸針",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "pineapple",
+        "zh_tw": "鳳梨",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "ping-pong",
+        "zh_tw": "乒乓球,桌球",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "pink",
+        "zh_tw": "粉紅色",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pipe",
+        "zh_tw": "管子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pitch",
+        "zh_tw": "投;投球;音高",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "pizza",
+        "zh_tw": "披薩",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "plain",
+        "zh_tw": "平原",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "planet",
+        "zh_tw": "行星",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "plate",
+        "zh_tw": "盤;碟",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "platform",
+        "zh_tw": "月台;平台",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "pleasure",
+        "zh_tw": "愉快",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "plus",
+        "zh_tw": "正號",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "poem",
+        "zh_tw": "詩",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "poet",
+        "zh_tw": "詩人",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "poison",
+        "zh_tw": "毒物",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "policy",
+        "zh_tw": "政策;策略",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "population",
+        "zh_tw": "人口",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "pork",
+        "zh_tw": "豬肉",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "port",
+        "zh_tw": "港",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pose",
+        "zh_tw": "姿勢;裝腔作勢",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "positive",
+        "zh_tw": "正面;正數;正片;(電池的",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "possibility",
+        "zh_tw": "可能性",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "post",
+        "zh_tw": "郵件;柱;樁;崗位;站;交易所",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "postcard",
+        "zh_tw": "明信片",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "pot",
+        "zh_tw": "罐;鍋",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "potato",
+        "zh_tw": "馬鈴薯",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "pound",
+        "zh_tw": "磅",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "praise",
+        "zh_tw": "讚揚,稱讚",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "presence",
+        "zh_tw": "出席,在場",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "present",
+        "zh_tw": "禮物",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "president",
+        "zh_tw": "校長;總統",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "press",
+        "zh_tw": "新聞輿論",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "pride",
+        "zh_tw": "自豪,得意",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "prince",
+        "zh_tw": "王子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "princess",
+        "zh_tw": "公主",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "principal",
+        "zh_tw": "(中小學",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "principle",
+        "zh_tw": "主義;真諦",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "printer",
+        "zh_tw": "印表機;印刷業者",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "prison",
+        "zh_tw": "監獄",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "prisoner",
+        "zh_tw": "囚犯;俘虜",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "prize",
+        "zh_tw": "獎品",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "produce",
+        "zh_tw": "農產品",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "producer",
+        "zh_tw": "生產者,製造者製片人",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "progress",
+        "zh_tw": "進步",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "project",
+        "zh_tw": "計畫",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "promise",
+        "zh_tw": "承諾,諾言;希望,前途",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "pudding",
+        "zh_tw": "布丁",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "pump",
+        "zh_tw": "唧筒;打氣機;抽水機",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "pumpkin",
+        "zh_tw": "南瓜",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "punishment",
+        "zh_tw": "處罰;懲罰",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "pupil",
+        "zh_tw": "學生",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "puppet",
+        "zh_tw": "木偶;傀儡",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "puppy",
+        "zh_tw": "小狗",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "purse",
+        "zh_tw": "錢包",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "puzzle",
+        "zh_tw": "謎",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "quality",
+        "zh_tw": "品質",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "quantity",
+        "zh_tw": "量",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "quarter",
+        "zh_tw": "¼;美金25分;15分鐘",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "quiz",
+        "zh_tw": "小考",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "rabbit",
+        "zh_tw": "兔子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "range",
+        "zh_tw": "範圍;等級;多爐爐灶",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "reality",
+        "zh_tw": "現實;真實",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "record",
+        "zh_tw": "記錄;唱片",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "rectangle",
+        "zh_tw": "長方形",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "refrigerator",
+        "zh_tw": "電冰箱",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "regard",
+        "zh_tw": "事項;問候",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "region",
+        "zh_tw": "地區,地帶",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "regular",
+        "zh_tw": "正規兵;老客戶;長工;普通尺寸",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "relation",
+        "zh_tw": "關係,關聯",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "relationship",
+        "zh_tw": "關係,關聯;人際關係",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "repeat",
+        "zh_tw": "重複;重播;複寫;副本;",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "reply",
+        "zh_tw": "答覆",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "reporter",
+        "zh_tw": "記者",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "requirement",
+        "zh_tw": "需要;必需品",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "respect",
+        "zh_tw": "尊敬",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "restaurant",
+        "zh_tw": "餐廳",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "restroom",
+        "zh_tw": "廁所",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "restroom",
+        "zh_tw": "廁所",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "result",
+        "zh_tw": "結果",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "review",
+        "zh_tw": "復習",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "riches",
+        "zh_tw": "財富,財產;富有,豐饒",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "roach",
+        "zh_tw": "蟑螂",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "role",
+        "zh_tw": "角色",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "roll",
+        "zh_tw": "滾動;(一",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "ruler",
+        "zh_tw": "尺;統治者",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "runner",
+        "zh_tw": "賽跑者;逃亡者",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "rush",
+        "zh_tw": "急速行動;(交通等的",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "safety",
+        "zh_tw": "安全",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "sailor",
+        "zh_tw": "水手",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "salad",
+        "zh_tw": "沙拉",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "sample",
+        "zh_tw": "樣品",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "sandwich",
+        "zh_tw": "三明治",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "sauce",
+        "zh_tw": "調味醬,醬汁",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "science",
+        "zh_tw": "科學",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "scientist",
+        "zh_tw": "科學家",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "scissors",
+        "zh_tw": "剪刀",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "score",
+        "zh_tw": "得分; 二十; 刻痕; 樂譜",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "screen",
+        "zh_tw": "屏;銀幕",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "search",
+        "zh_tw": "搜查,搜尋;檢查;探索,調查",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "secret",
+        "zh_tw": "秘密",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "secretary",
+        "zh_tw": "秘書",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "section",
+        "zh_tw": "節;斷面",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "selection",
+        "zh_tw": "選擇;選拔;選集,文選",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "semester",
+        "zh_tw": "學期",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "servant",
+        "zh_tw": "雇工",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "settlement",
+        "zh_tw": "解決;清算;定居",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "share",
+        "zh_tw": "股份;市場佔有率;分攤;貢獻",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "shelf",
+        "zh_tw": "架子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "shell",
+        "zh_tw": "殼,果殼;貝殼",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "shock",
+        "zh_tw": "震驚",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "shoot",
+        "zh_tw": "幼芽,幼枝;狩獵(隊",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "shorts",
+        "zh_tw": "短褲",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "shower",
+        "zh_tw": "陣雨;淋浴",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "shrimp",
+        "zh_tw": "蝦子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "sidewalk",
+        "zh_tw": "路邊行人道",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "sign",
+        "zh_tw": "記號",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "silence",
+        "zh_tw": "寂靜",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "silk",
+        "zh_tw": "蠶絲,絲;絲織物(品",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "single",
+        "zh_tw": "單的;一壘安打",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "sink",
+        "zh_tw": "洗物槽",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "skirt",
+        "zh_tw": "裙子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "slide",
+        "zh_tw": "滑梯;土崩",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "slip",
+        "zh_tw": "滑跤",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "slipper",
+        "zh_tw": "拖鞋",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "snack",
+        "zh_tw": "點心",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "snail",
+        "zh_tw": "蝸牛",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "soccer",
+        "zh_tw": "足球",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "society",
+        "zh_tw": "社會",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "sock",
+        "zh_tw": "短襪",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "soldier",
+        "zh_tw": "軍人",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "solution",
+        "zh_tw": "解答;溶劑",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "somebody",
+        "zh_tw": "某人;有名氣的人",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "sort",
+        "zh_tw": "類型;排序",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "source",
+        "zh_tw": "源頭",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "soy",
+        "zh_tw": "醬油;大豆",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "soybean",
+        "zh_tw": "大豆",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "speaker",
+        "zh_tw": "演講者;揚聲器",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "speed",
+        "zh_tw": "速度",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "spelling",
+        "zh_tw": "拼字;拼寫;拼法",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "spider",
+        "zh_tw": "蜘蛛",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "spinach",
+        "zh_tw": "菠菜",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "spirit",
+        "zh_tw": "精神",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "spot",
+        "zh_tw": "斑點;場所",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "spread",
+        "zh_tw": "蔓延;普及;價格差異",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "spring",
+        "zh_tw": "春天;泉",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "square",
+        "zh_tw": "正方形",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "squirrel",
+        "zh_tw": "松鼠",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "stage",
+        "zh_tw": "舞臺;(進展的",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "stamp",
+        "zh_tw": "郵票;印章",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "standard",
+        "zh_tw": "標準",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "steak",
+        "zh_tw": "牛排",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "steam",
+        "zh_tw": "蒸氣",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "steel",
+        "zh_tw": "鋼,鋼鐵",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "stick",
+        "zh_tw": "棍;棒;杖;枝條",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "storm",
+        "zh_tw": "暴風雨",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "stove",
+        "zh_tw": "爐灶",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "straight",
+        "zh_tw": "直,挺直;(紙牌",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "stranger",
+        "zh_tw": "陌生人",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "straw",
+        "zh_tw": "稻草;吸管",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "strawberry",
+        "zh_tw": "草莓",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "stream",
+        "zh_tw": "溪流",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "stress",
+        "zh_tw": "壓力",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "stretch",
+        "zh_tw": "伸直;伸出;伸長",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "strike",
+        "zh_tw": "攻擊;罷工",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "string",
+        "zh_tw": "線;細繩;帶子",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "struggle",
+        "zh_tw": "使勁;掙扎",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "subject",
+        "zh_tw": "主題;學科",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "subway",
+        "zh_tw": "地鐵",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "success",
+        "zh_tw": "成功",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "sudden",
+        "zh_tw": "突然發生的事",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "suit",
+        "zh_tw": "一套衣服;訴訟",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "supermarket",
+        "zh_tw": "超級市場",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "supply",
+        "zh_tw": "生活用品;補給品",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "support",
+        "zh_tw": "支持",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "surface",
+        "zh_tw": "表面",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "swallow",
+        "zh_tw": "吞嚥;燕子",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "swan",
+        "zh_tw": "天鵝",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "sweater",
+        "zh_tw": "毛衣",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "sweep",
+        "zh_tw": "掃除",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "swing",
+        "zh_tw": "鞦韆;搖擺音樂",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "symbol",
+        "zh_tw": "符號;象徵",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "table tennis",
+        "zh_tw": "乒乓球",
+        "part_of_speech": "n.12"
+    },
+    {
+        "en": "talent",
+        "zh_tw": "天才",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tangerine",
+        "zh_tw": "橘子",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "tank",
+        "zh_tw": "槽;坦克",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "tape",
+        "zh_tw": "錄音帶;錄影帶;膠帶",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "target",
+        "zh_tw": "目標",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "task",
+        "zh_tw": "任務;工作",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "team",
+        "zh_tw": "隊",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "tear",
+        "zh_tw": "眼淚",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "teen",
+        "zh_tw": "青少年",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "teenager",
+        "zh_tw": "十幾歲孩子",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "telephone",
+        "zh_tw": "電話",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "television",
+        "zh_tw": "電視",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "temple",
+        "zh_tw": "廟宇;神殿",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tennis",
+        "zh_tw": "網球",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tent",
+        "zh_tw": "帳篷",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "term",
+        "zh_tw": "術語;學期",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "test",
+        "zh_tw": "測驗;考試",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "textbook",
+        "zh_tw": "教科書",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "theater",
+        "zh_tw": "戲院;劇院",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "thief",
+        "zh_tw": "小偷",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "throat",
+        "zh_tw": "喉嚨",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "thumb",
+        "zh_tw": "拇指",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "thunder",
+        "zh_tw": "雷",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "tip",
+        "zh_tw": "尖端;小費",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "title",
+        "zh_tw": "標題;頭銜",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "toast",
+        "zh_tw": "烤麵包片",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "toe",
+        "zh_tw": "腳趾",
+        "part_of_speech": "n.3"
+    },
+    {
+        "en": "tofu",
+        "zh_tw": "豆腐",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "toilet",
+        "zh_tw": "馬桶",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tomato",
+        "zh_tw": "番茄",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tongue",
+        "zh_tw": "舌頭",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "tooth",
+        "zh_tw": "牙齒",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "topic",
+        "zh_tw": "論題;話題",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "tour",
+        "zh_tw": "旅行",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "towel",
+        "zh_tw": "毛巾",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "tower",
+        "zh_tw": "塔",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "track",
+        "zh_tw": "行蹤;軌道",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "trade",
+        "zh_tw": "貿易",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "tradition",
+        "zh_tw": "傳統",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "traffic",
+        "zh_tw": "交通",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "trap",
+        "zh_tw": "陷阱;圈套",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "travel",
+        "zh_tw": "旅行",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "treasure",
+        "zh_tw": "財寶",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "treat",
+        "zh_tw": "款待",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "treatment",
+        "zh_tw": "對待;待遇;治療法",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "trial",
+        "zh_tw": "審判",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "triangle",
+        "zh_tw": "三角形",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "trick",
+        "zh_tw": "詭計;戲法;惡作劇",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "trousers",
+        "zh_tw": "長褲",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "truck",
+        "zh_tw": "卡車",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "trumpet",
+        "zh_tw": "小喇叭",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "trust",
+        "zh_tw": "信任,信賴;託管,信託",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "truth",
+        "zh_tw": "事實;真相",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "tube",
+        "zh_tw": "管子",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "tunnel",
+        "zh_tw": "隧道",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "turkey",
+        "zh_tw": "火雞",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "turtle",
+        "zh_tw": "烏龜",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "type",
+        "zh_tw": "類型",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "typhoon",
+        "zh_tw": "颱風",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "umbrella",
+        "zh_tw": "雨傘",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "underground",
+        "zh_tw": "地面下層;地下組織",
+        "part_of_speech": "n.11"
+    },
+    {
+        "en": "underwear",
+        "zh_tw": "內衣",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "uniform",
+        "zh_tw": "制服",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "user",
+        "zh_tw": "使用者",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "vacation",
+        "zh_tw": "假期",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "valley",
+        "zh_tw": "山谷",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "value",
+        "zh_tw": "價值",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "victory",
+        "zh_tw": "勝利",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "video",
+        "zh_tw": "錄影機;錄影帶",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "village",
+        "zh_tw": "村落",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "violin",
+        "zh_tw": "小提琴",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "visitor",
+        "zh_tw": "訪客",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "vocabulary",
+        "zh_tw": "字彙",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "volleyball",
+        "zh_tw": "排球",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "vote",
+        "zh_tw": "選舉,投票,表決",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "voter",
+        "zh_tw": "選舉人;投票人",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "waist",
+        "zh_tw": "腰",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "waiter",
+        "zh_tw": "男服務生",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "waitress",
+        "zh_tw": "女服務生",
+        "part_of_speech": "n.8"
+    },
+    {
+        "en": "wallet",
+        "zh_tw": "皮夾",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "waterfall",
+        "zh_tw": "瀑布",
+        "part_of_speech": "n.9"
+    },
+    {
+        "en": "watermelon",
+        "zh_tw": "西瓜",
+        "part_of_speech": "n.10"
+    },
+    {
+        "en": "wave",
+        "zh_tw": "波浪",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "weapon",
+        "zh_tw": "武器",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "weekday",
+        "zh_tw": "工作日",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "western",
+        "zh_tw": "西部地區的人",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "whale",
+        "zh_tw": "鯨魚",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "wheel",
+        "zh_tw": "輪子",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "whisper",
+        "zh_tw": "傳聞,流言",
+        "part_of_speech": "n.7"
+    },
+    {
+        "en": "width",
+        "zh_tw": "寬度",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "wild",
+        "zh_tw": "荒野,荒地;未開發的地方",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "wing",
+        "zh_tw": "翅膀",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "winner",
+        "zh_tw": "贏家",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "wire",
+        "zh_tw": "金屬線",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "wolf",
+        "zh_tw": "狼",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "wonder",
+        "zh_tw": "驚奇;奇觀",
+        "part_of_speech": "n.6"
+    },
+    {
+        "en": "wool",
+        "zh_tw": "羊毛;毛織品",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "worth",
+        "zh_tw": "價值",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "wound",
+        "zh_tw": "傷口",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "yard",
+        "zh_tw": "庭院;碼(3英呎",
+        "part_of_speech": "n.4"
+    },
+    {
+        "en": "youth",
+        "zh_tw": "青少年;青少年時代",
+        "part_of_speech": "n.5"
+    },
+    {
+        "en": "zebra",
+        "zh_tw": "斑馬",
+        "part_of_speech": "n.5"
+    }
+]
