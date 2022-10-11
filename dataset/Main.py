@@ -37,7 +37,7 @@ def sql_executemany(conn, create_table_sql, data):
 
 
 def create_sql_table(conn):
-    sql_create_projects_table = """ CREATE TABLE IF NOT EXISTS words (
+    sql = """ CREATE TABLE IF NOT EXISTS words (
                                         id integer PRIMARY KEY,
                                         en text,
                                         zh_tw text,
@@ -47,10 +47,18 @@ def create_sql_table(conn):
                                         created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
                                     ); """
     if conn is not None:
-        sql_execute(conn, sql_create_projects_table)
+        sql_execute(conn, sql)
     else:
         print("Error! cannot create the database connection.")
 
+def delete_sql_table(conn):
+
+    sql = """ DROP TABLE words; """
+
+    if conn is not None:
+        sql_execute(conn, sql)
+    else:
+        print("Error! cannot create the database connection.")
 
 def words_to_array(detail):
 
@@ -83,18 +91,15 @@ if __name__ == '__main__':
 
     xls_page_list = ['1級', '2級', '3級', '4級', '5級']
     level_list = ['level_1', 'level_2', 'level_3', 'level_4', 'level_5']
+    
 
     conn = create_connection("database.db")
 
+    delete_sql_table(conn)
+
     create_sql_table(conn)
 
-    lang_list = [
-        ("wharf", "碼頭;停泊處", "level_1"),
-        ("wildlife", "野生生物", "level_1"),
-        ("vow", "誓言;誓約", "level_1"),
-    ]
-    sql_executemany(
-        conn, "insert into words(en, zh_tw, type) values (?, ?)", lang_list)
+
 
     xls = pd.ExcelFile('senior_7000.xls')
 
@@ -108,7 +113,18 @@ if __name__ == '__main__':
         for word_list in senior7_data:
             word_dist = words_to_array(word_list)
 
+            word_dist["type"] = level_list[idx]
             level_arr.append(word_dist)
 
         json_file_name = level_list[idx] + '.json'
         write_json_file(level_arr, json_file_name)
+
+        for level in level_arr:
+
+            lang_list = [
+                (level["en"], level["zh_tw"], level["part_of_speech"], level["type"])
+            ]
+            sql_executemany(
+            conn, "insert into words(en, zh_tw, part_of_speech, type) values (?, ?, ?, ?)", lang_list)
+
+   
