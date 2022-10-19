@@ -19,6 +19,7 @@ function speakWord(name: string) {
 }
 
 const Words = ({navigation}: any) => {
+  const [wordSqlWhere, setWordSqlWhere] = useState('type="level_1" LIMIT 50');
   const [storedWordsItems, setStoredWordsItems] = useState<any[]>([]);
 
   const getDBConnection = async () => {
@@ -33,7 +34,7 @@ const Words = ({navigation}: any) => {
     try {
       const wordItems: any[] = [];
       const results = await db.executeSql(
-        'SELECT * FROM words WHERE type="level_1" LIMIT 50',
+        'SELECT * FROM words WHERE ' + wordSqlWhere,
       );
       results.forEach((result: any) => {
         for (let index = 0; index < result.rows.length; index++) {
@@ -58,7 +59,7 @@ const Words = ({navigation}: any) => {
     } catch (error) {
       console.error(error);
     }
-  }, []);
+  }, [wordSqlWhere]);
 
   useEffect(() => {
     loadDataCallback();
@@ -74,11 +75,29 @@ const Words = ({navigation}: any) => {
     </ListItem>
   );
 
+  const changeLevelWords = (level: number) => {
+    console.log(level);
+    if (level === 1) {
+      setWordSqlWhere('type="level_1" LIMIT 10');
+    } else {
+      setWordSqlWhere('type="level_2" LIMIT 10');
+    }
+  };
   return (
     <SafeAreaView>
       <Button
         title="Go to Words Screen"
         onPress={() => navigation.navigate('Login')} // We added an onPress event which would navigate to the About screen
+      />
+
+      <Button
+        title="Get word of level 1"
+        onPress={() => changeLevelWords(1)} // We added an onPress event which would navigate to the About screen
+      />
+
+      <Button
+        title="Get word of level 2"
+        onPress={() => changeLevelWords(2)} // We added an onPress event which would navigate to the About screen
       />
       <View>
         <FlatList data={storedWordsItems} renderItem={renderItem} />
