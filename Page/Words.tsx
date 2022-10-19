@@ -1,5 +1,5 @@
 import React, {useState, useCallback, useEffect} from 'react';
-import {View, Button, SafeAreaView} from 'react-native';
+import {View, Button, SafeAreaView, FlatList} from 'react-native';
 import {ListItem} from '@rneui/themed';
 import Tts from 'react-native-tts';
 import SQLite, {SQLiteDatabase} from 'react-native-sqlite-storage';
@@ -33,7 +33,7 @@ const Words = ({navigation}: any) => {
     try {
       const wordItems: any[] = [];
       const results = await db.executeSql(
-        'SELECT * FROM words WHERE type="level_1"',
+        'SELECT * FROM words WHERE type="level_1" LIMIT 50',
       );
       results.forEach((result: any) => {
         for (let index = 0; index < result.rows.length; index++) {
@@ -64,23 +64,26 @@ const Words = ({navigation}: any) => {
     loadDataCallback();
   }, [loadDataCallback]);
 
+  const renderItem = ({item}: any) => (
+    <ListItem key={item.id} bottomDivider onPress={() => speakWord(item.en)}>
+      <ListItem.Content>
+        <ListItem.Title>{item.en}</ListItem.Title>
+        <ListItem.Subtitle>{item.zh_tw}</ListItem.Subtitle>
+      </ListItem.Content>
+      <ListItem.Chevron />
+    </ListItem>
+  );
+
   return (
-    <View>
-      <SafeAreaView>
-        {storedWordsItems.map((l, i) => (
-          <ListItem key={i} bottomDivider onPress={() => speakWord(l.en)}>
-            <ListItem.Content>
-              <ListItem.Title>{l.en}</ListItem.Title>
-              <ListItem.Subtitle>{l.zh_tw}</ListItem.Subtitle>
-            </ListItem.Content>
-          </ListItem>
-        ))}
-      </SafeAreaView>
+    <SafeAreaView>
       <Button
         title="Go to Words Screen"
         onPress={() => navigation.navigate('Login')} // We added an onPress event which would navigate to the About screen
       />
-    </View>
+      <View>
+        <FlatList data={storedWordsItems} renderItem={renderItem} />
+      </View>
+    </SafeAreaView>
   );
 };
 
