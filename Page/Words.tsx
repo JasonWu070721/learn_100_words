@@ -1,8 +1,8 @@
-import React, {useState, useCallback, useEffect} from 'react';
+import React, {useState, useEffect} from 'react';
 import {View, Button, SafeAreaView, FlatList} from 'react-native';
 import {ListItem} from '@rneui/themed';
 import Tts from 'react-native-tts';
-import SQLite, {SQLiteDatabase} from 'react-native-sqlite-storage';
+import SQLite from 'react-native-sqlite-storage';
 
 SQLite.DEBUG(true);
 SQLite.enablePromise(true);
@@ -30,8 +30,9 @@ const Words = ({navigation}: any) => {
     });
   };
 
-  const getWordItems = async (db: SQLiteDatabase) => {
+  const getWordItems = async () => {
     try {
+      const db = await getDBConnection();
       const wordItems: any[] = [];
       const results = await db.executeSql(
         'SELECT * FROM words WHERE ' + wordSqlWhere,
@@ -48,22 +49,13 @@ const Words = ({navigation}: any) => {
     }
   };
 
-  const loadDataCallback = useCallback(async () => {
-    try {
-      const db = await getDBConnection();
-      let storedWordItems = await getWordItems(db);
-
+  useEffect(() => {
+    getWordItems().then(storedWordItems => {
       if (storedWordItems.length) {
         setStoredWordsItems(storedWordItems);
       }
-    } catch (error) {
-      console.error(error);
-    }
-  }, [wordSqlWhere]);
-
-  useEffect(() => {
-    loadDataCallback();
-  }, [loadDataCallback]);
+    });
+  }, []);
 
   const renderItem = ({item}: any) => (
     <ListItem key={item.id} bottomDivider onPress={() => speakWord(item.en)}>
@@ -75,12 +67,18 @@ const Words = ({navigation}: any) => {
     </ListItem>
   );
 
-  const changeLevelWords = (level: number) => {
+  const changeLevelWords = async (level: number) => {
     console.log(level);
+    let storedWordItems: any[] = [];
     if (level === 1) {
       setWordSqlWhere('type="level_1" LIMIT 10');
+      storedWordItems = await getWordItems();
     } else {
       setWordSqlWhere('type="level_2" LIMIT 10');
+      storedWordItems = await getWordItems();
+    }
+    if (storedWordItems.length) {
+      setStoredWordsItems(storedWordItems);
     }
   };
   return (
