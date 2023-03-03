@@ -8,7 +8,7 @@ const Login = ({navigation}: any) => {
       <Button
         title="Go to Login Screen"
         onPress={() => {
-          navigation.navigate('Words');
+          navigation.navigate('Home');
         }}
       />
     </View>
